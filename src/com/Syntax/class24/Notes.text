@@ -1,0 +1,10 @@
+abstract classes- they are hundred percent complet
+they hide the implementation and only show functianality
+
+It reduces complexity and improves maintainbility
+
+we use abstract classes when we are sure about the method hearder but not about the implementation
+header is access movidifieers, return typ, name with arguments
+
+we can delcarea class as abstract without having any abstract methods inside it
+once we have at least one abstract mehtod we must delcare that class as absttract
